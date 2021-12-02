@@ -2,7 +2,7 @@
 
 """
   Advent of Code 2021
-  Day 1, Problem 1
+  Day 1, Problem 2
 """
 
 import sys
